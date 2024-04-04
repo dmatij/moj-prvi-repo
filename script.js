@@ -5,3 +5,4 @@ console.log("hvala");
 
 console.log("asfdsvfcdsacdsa");
 cosole.log("asfdsvfcdsfbgfsacdsa");
+console.log("osoba 2");
